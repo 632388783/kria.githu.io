@@ -1076,4 +1076,4 @@ static_prefix:
 deploy:
   type: 'git'
   repository: 'https://github.com/632388783/kria.github.io.git'
-  branch: 'master'
+  branch: 'main'
