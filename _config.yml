@@ -10,8 +10,8 @@ keywords:
 author: John Doe
 language: zh-CN
 timezone: ''
-logo: https://code.bdstatic.com/npm/logicdn@1.0.0/logi.im/usr/images/global/archives.webp
-favicon: /images/favicon.svg
+logo: https://qingshaner.oss-cn-hangzhou.aliyuncs.com/images/202204101006715.ico
+favicon: https://qingshaner.oss-cn-hangzhou.aliyuncs.com/images/202204101006715.ico
 banner_img: https://code.bdstatic.com/npm/logicdn@1.0.0/logi.im/usr/images/global/archives.webp
 
 # URL
@@ -103,8 +103,10 @@ theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
+# deploy:
+#   type: 'git'
+#   repo: 'https://github.com/632388783/kria.github.io.git'
+#   branch: 'main'
 
 navbar:
   blog_title: Lemon # 博客标题
