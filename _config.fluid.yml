@@ -1075,7 +1075,7 @@ static_prefix:
   hint: https://lib.baomitu.com/hint.css/2.7.0/
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-# deploy:
-#   type: 'git'
-#   repo: 'https://github.com/632388783/kria.github.io.git'
-#   branch: 'main'
+deploy:
+  type: 'git'
+  repository: 'https://github.com/632388783/kria.github.io.git'
+  branch: 'master'
